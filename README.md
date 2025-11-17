@@ -6,7 +6,7 @@ Dashboard dibangun menggunakan **Tableau** dan terdiri dari empat blok utama: **
 
 ---
 
-## 📸 Dashboard Screenshot
+## Dashboard Screenshot
 
 <img width="1749" height="999" alt="Image" src="https://github.com/user-attachments/assets/dcb84007-3d16-4317-bf32-e129e9893e86" />
 
@@ -14,7 +14,7 @@ Dashboard dibangun menggunakan **Tableau** dan terdiri dari empat blok utama: **
 
 ---
 
-## 🎯 Tujuan Dashboard
+## Tujuan Dashboard
 
 - Menyajikan gambaran menyeluruh mengenai kinerja operasional dan finansial rental DVD.
 - Mengidentifikasi pola perilaku pelanggan termasuk sebaran geografis dan tingkat keaktifan.
@@ -23,7 +23,7 @@ Dashboard dibangun menggunakan **Tableau** dan terdiri dari empat blok utama: **
 
 ---
 
-## 📊 Ringkasan Visualisasi
+## Ringkasan Visualisasi
 
 ### **1. Summary**
 Indikator kinerja utama (KPI):
@@ -81,12 +81,12 @@ Dari total 1.000 film, rating PG dan G adalah yang paling dominan.
 ---
 
 
-## 🛠️ Tools dan Dataset
+## Tools dan Dataset
 
 - **Visualisasi:** Tableau Public  
 - **Database:** MySQL — Sakila Sample Database  
 - **Link Dashboard Tableau:**  
-  [https://public.tableau.com/app/profile/muhammad.ardiansyah8700/viz/RentalDVDDashboard/Dashboard1](https://public.tableau.com/views/RentalDVDDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  [RentalDVDDashboard](https://public.tableau.com/views/RentalDVDDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
