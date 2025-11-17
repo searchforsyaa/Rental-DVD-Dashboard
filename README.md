@@ -8,7 +8,7 @@ Dashboard dibangun menggunakan **Tableau** dan terdiri dari empat blok utama: **
 
 ## 📸 Dashboard Screenshot
 
-![Rental DVD Dashboard](Dashboard_1.png)
+<img width="1749" height="999" alt="Image" src="https://github.com/user-attachments/assets/dcb84007-3d16-4317-bf32-e129e9893e86" />
 
 *Gambar di atas merupakan tampilan penuh dashboard yang telah dibuat menggunakan Tableau.*
 
