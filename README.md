@@ -80,14 +80,6 @@ Dari total 1.000 film, rating PG dan G adalah yang paling dominan.
 
 ---
 
-## 🧠 Insight dan Rekomendasi
-
-- Tambah stok film pada kategori dengan durasi rental tinggi karena menunjukkan level minat pelanggan yang tinggi.  
-- Gunakan bundling film populer dengan kategori yang kurang diminati untuk meningkatkan rotasi stok.  
-- Implementasikan program loyalitas untuk pelanggan yang sangat aktif agar retensi tetap kuat.  
-- Evaluasi keseimbangan stok terutama pada genre besar seperti Sports untuk memastikan tingkat peminjaman sepadan dengan supply.
-
----
 
 ## 🛠️ Tools dan Dataset
 
